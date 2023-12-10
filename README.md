@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vemkaze
 - 👀 I’m interested in  web development and blockchain
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on projects
+- 💞️ I’m looking forward to collaborate on projects
 - 📫 How to reach me dm me at twitter @vemkaze
 
 <!---
